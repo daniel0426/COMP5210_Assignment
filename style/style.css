@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+
+.object-class {
+    text-align: center;
+}
+
+.nav-link:hover{
+   font-size: 18px;
+}
+nav{
+    z-index:10;
+}
+h1{
+    text-align:center;
+    margin: 10px;
+}
+h1, h2 ,h3, h4{
+    color:lightblue;
+    font-family: 'Roboto', sans-serif;
+    margin:30px;
+}
+h1{
+    font-size: 2rem;
+}
+h2{
+  font-size: 1.5rem;  
+}
+
+
+.container {
+    padding: 20px;
+    color:lightgray;
+}
+img{
+    display: block;
+  margin: 40px auto;
+  width: 50%;
+  
+}
+p{
+    margin-left: 15px;
+}
